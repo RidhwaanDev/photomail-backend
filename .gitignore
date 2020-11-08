@@ -1,5 +1,5 @@
 # Byte-compiled / optimized / DLL files
-hack20Key.json
+*.json
 __pycache__/
 *.py[cod]
 
